@@ -40,7 +40,7 @@ A simple and powerful chatbot built with [LangChain](https://www.langchain.com/)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/langchain-chatbot.git
+git clone https://github.com/mfslovely/langchain-chatbot.git
 cd langchain-chatbot
 ````
 
