@@ -71,26 +71,6 @@ LANGCHAIN_PROJECT=your_project_name
 streamlit run app.py
 ```
 
----
-
-## 🧠 Using Ollama (Optional)
-
-Install [Ollama](https://ollama.com/) and pull a model:
-
-```bash
-ollama run llama3
-```
-
-In your code, replace OpenAI with:
-
-```python
-from langchain_community.llms import Ollama
-
-llm = Ollama(model="llama3")
-```
-
----
-
 ## 📁 Project Structure
 
 ```
